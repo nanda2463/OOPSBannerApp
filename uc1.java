@@ -1,4 +1,5 @@
 class Main {
+
     public static void main(String[] args) {
         // 1. Simple console display
         System.out.println("OOPS");
